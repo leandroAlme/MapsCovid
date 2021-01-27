@@ -1,2 +1,4 @@
 # MapsCovid
-Esse aqui é O Front-end
+Esse aqui é o Front-end desenvolvido com React-Native,
+sendo arquivos principais com o codigo principal no arquivo App.js.
+Onde contem todas as funções para consumir Api's e renderizar o que é necessario na tela principal.
